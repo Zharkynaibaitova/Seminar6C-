@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\PRIMERY\bin\Debug\net6.0\PRIMERY.exe
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\PRIMERY\bin\Debug\net6.0\PRIMERY.deps.json
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\PRIMERY\bin\Debug\net6.0\PRIMERY.runtimeconfig.json
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\PRIMERY\bin\Debug\net6.0\PRIMERY.dll
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\PRIMERY\bin\Debug\net6.0\PRIMERY.pdb
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\PRIMERY\obj\Debug\net6.0\PRIMERY.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\PRIMERY\obj\Debug\net6.0\PRIMERY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\PRIMERY\obj\Debug\net6.0\PRIMERY.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\PRIMERY\obj\Debug\net6.0\PRIMERY.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\PRIMERY\obj\Debug\net6.0\PRIMERY.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\PRIMERY\obj\Debug\net6.0\PRIMERY.dll
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\PRIMERY\obj\Debug\net6.0\refint\PRIMERY.dll
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\PRIMERY\obj\Debug\net6.0\PRIMERY.pdb
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\PRIMERY\obj\Debug\net6.0\PRIMERY.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\PRIMERY\obj\Debug\net6.0\ref\PRIMERY.dll
