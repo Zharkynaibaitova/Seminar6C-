@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\HomeWorkSeminar6C#\bin\Debug\net6.0\HomeWorkSeminar6C#.exe
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\HomeWorkSeminar6C#\bin\Debug\net6.0\HomeWorkSeminar6C#.deps.json
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\HomeWorkSeminar6C#\bin\Debug\net6.0\HomeWorkSeminar6C#.runtimeconfig.json
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\HomeWorkSeminar6C#\bin\Debug\net6.0\HomeWorkSeminar6C#.dll
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\HomeWorkSeminar6C#\bin\Debug\net6.0\HomeWorkSeminar6C#.pdb
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\HomeWorkSeminar6C#\obj\Debug\net6.0\HomeWorkSeminar6C#.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\HomeWorkSeminar6C#\obj\Debug\net6.0\HomeWorkSeminar6C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\HomeWorkSeminar6C#\obj\Debug\net6.0\HomeWorkSeminar6C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\HomeWorkSeminar6C#\obj\Debug\net6.0\HomeWorkSeminar6C#.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\HomeWorkSeminar6C#\obj\Debug\net6.0\HomeWorkSeminar6C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\HomeWorkSeminar6C#\obj\Debug\net6.0\HomeWorkSeminar6C#.dll
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\HomeWorkSeminar6C#\obj\Debug\net6.0\refint\HomeWorkSeminar6C#.dll
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\HomeWorkSeminar6C#\obj\Debug\net6.0\HomeWorkSeminar6C#.pdb
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\HomeWorkSeminar6C#\obj\Debug\net6.0\HomeWorkSeminar6C#.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar6C#\Seminar6C-\HomeWorkSeminar6C#\obj\Debug\net6.0\ref\HomeWorkSeminar6C#.dll
